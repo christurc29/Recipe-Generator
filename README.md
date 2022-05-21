@@ -2,7 +2,7 @@
 
 <a href="https://recipe-gen.netlify.app" target="_blank"><img src="images/../Recipe_Generator/images/recipe.gif" /></a>
 
-### Find the next cocktail to try with your favorite alcoholic ingredient
+### Find the next tasty meal to make based on your ingredient!
 
 ## Tech Used: ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)![HTML BADGE](https://img.shields.io/static/v1?label=|&message=HTML&color=285f65&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS&color=3c7f5d&style=plastic&logo=css3)
 
