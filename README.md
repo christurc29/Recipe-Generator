@@ -6,7 +6,7 @@
 
 ## Tech Used: ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)![HTML BADGE](https://img.shields.io/static/v1?label=|&message=HTML&color=285f65&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS&color=3c7f5d&style=plastic&logo=css3)
 
-My learning was focused on understanding how to use APIs to obtain the information I wanted to display to the user. By working with APIs I further familiarzed myself with object-oriented programming. I contined to learn how to access the particular properties necessary based on the goal of my website.
+My learning was focused on understanding how to use APIs to obtain the information I wanted to display to the user. I continued to learn how to access the particular properties necessary based on the goal of my website.
 
 ## Optimizations
 
